@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2e756776A63F936a6010Dd9ee5C5fE77b5E02562",
+  "SCAN_LINK": "https://cronos.org/explorer/address/0x2e756776A63F936a6010Dd9ee5C5fE77b5E02562/transactions",
+  "NETWORK": {
+    "NAME": "Cronos",
+    "SYMBOL": "CRO",
+    "ID": 25
+  },
+  "NFT_NAME": "Crobadge",
+  "SYMBOL": "cBadge",
+  "MAX_SUPPLY": 999,
+  "WEI_COST": 66000000000000000000,
+  "DISPLAY_COST": 66,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Crosea",
+  "MARKETPLACE_LINK": "https://Crosea.io/",
+  "SHOW_BACKGROUND": true
+}
